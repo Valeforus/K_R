@@ -1,0 +1,10 @@
+﻿  Source.cpp
+  search.cpp
+d:\famcs\consoleapplication2\consoleapplication2\search.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\famcs\consoleapplication2\consoleapplication2\search.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  bubble_sort.cpp
+d:\famcs\consoleapplication2\consoleapplication2\bubble_sort.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\famcs\consoleapplication2\consoleapplication2\bubble_sort.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ConsoleApplication2.vcxproj -> D:\FAMCS\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> D:\FAMCS\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
